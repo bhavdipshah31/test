@@ -35,5 +35,5 @@ jobs:
       with:
         app-name: 'FlaskWebProject520210723100801'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_68239f163a034b4aa56af224e7feb400 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_35b412e5d0754954ade617caa8aaa979 }}
         package: '.\app.zip'
